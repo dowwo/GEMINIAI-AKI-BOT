@@ -21,6 +21,7 @@ from PIL import Image # pip install pillow
 
 import speech_recognition as sr
 import edge_tts
+from vosk import Model
 import vlc
 
 #Importaciones desde archivo
@@ -104,6 +105,8 @@ safety_config = [
 # Inicializar el chat, con historial y habilitando la llamada autonoma de funciones
 chat = model.start_chat(history=hist, enable_automatic_function_calling=True)
 
+
+
 #Inicializacion del Recognizer
 r = sr.Recognizer()
 # Configuracion de Edge-tts
@@ -154,9 +157,9 @@ async def capturar_pantalla(user_input):
     description = user_input
     try:
         screenshot_capture()
-        image_path = 'vista_de_aki.png'
+        image_path = 'src/vista_de_aki.png'
         #image_file = Image.open(image_path) # antigua forma, consumia muy rapido el maximo para subir de un archivo
-        img_file = genai.upload_file('vista_de_aki.png')
+        img_file = genai.upload_file(image_path)
                                 
         # Procesa la imagen y genera una descripcion
         
@@ -240,9 +243,15 @@ async def main():
         except Exception as e:
             print(f"Error: {e}")
     
-# Crear un evento asincrónico para iniciar la conexión a Discord 
-async def start_discord(): await bot.start(DISCORD_TOKEN) 
-# Ejecutar la conexión a Discord en un hilo separado 
-loop = asyncio.get_event_loop() 
-#loop.run_until_complete(asyncio.gather(main(), start_discord()))
-loop.run_until_complete(asyncio.gather(main(),))
+
+try:
+    if True:
+        # Crear un evento asincrónico para iniciar la conexión a Discord 
+        async def start_discord(): await bot.start(DISCORD_TOKEN) 
+        # Ejecutar la conexión a Discord en un hilo separado 
+        loop = asyncio.get_event_loop() 
+        loop.run_until_complete(asyncio.gather(main(), start_discord()))
+        #loop.run_until_complete(asyncio.gather(main(),))        
+except Exception as e:
+    print("Ocurrio un error al crear la conexion a discord", e)
+    

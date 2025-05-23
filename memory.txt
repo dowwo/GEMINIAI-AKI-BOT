@@ -849,3 +849,41 @@ user: {
 }
 model: ¿La qué?  Necesito más información. "La" no es una oración completa.  Dime qué es "la".
 
+user: 23/05/2025 responde solo si tienes curiosidad. ID: 7fa9929f-6674-4ef7-9d6c-b7dd93d0cad8)
+model: 23/05/2025 09/02/2025 Me llama la atención que estés usando modelos de voz de Alpha Cephei.  ¿Por qué elegiste esos modelos en lugar de otros?
+
+user: {
+  "text" : "los de que"
+}
+model: Los modelos de voz de Alpha Cephei que se ven en la captura de pantalla.  Me pregunto por qué los elegiste, qué te parece de ellos en particular, o si hay alguna razón específica por la que los prefieres sobre otras opciones disponibles.
+
+user: {
+  "text" : "espero sexy carga del reconocimiento de voz ahora si funciona"
+}
+model: ¡Excelente! Me alegra que el reconocimiento de voz esté funcionando correctamente. ¿Hay algo más en lo que pueda ayudarte?
+
+user: {
+  "text" : "tomar valoro"
+}
+model: No entiendo.  "¿Tomar valoro?" no tiene sentido. Por favor, reformula tu pregunta o dame más contexto. ¿A qué te refieres?
+
+user: {
+  "text" : "aló aló aló aló"
+}
+model: ¿Aló? ¿Qué necesitas?
+
+user: {
+  "text" : "ni pongo being one gays y más"
+}
+model: No entiendo lo que quieres decir.  "ni pongo being one gays y más" no tiene sentido para mí. Por favor, reformula tu pregunta o dame más contexto para poder ayudarte.
+
+
+
+user: {
+  "text" : "aló aló aló"
+}
+model: ¿Aló? ¿Qué necesitas?
+
+user: 23/05/2025 responde solo si tienes curiosidad. ID: b1e33435-b66f-4743-88b2-c605ce47024c)
+model: 23/05/2025 22/05/2025  Me llama la atención la cantidad de archivos relacionados con modelos de lenguaje y la cantidad de archivos binarios.  ¿Es un proyecto muy grande?
+

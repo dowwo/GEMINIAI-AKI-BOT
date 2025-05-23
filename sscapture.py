@@ -32,7 +32,7 @@ pyautogui.alert('Mensaje a mostrar')
  """
 
 def screenshot_capture():
-    ss_image = pyautogui.screenshot('vista_de_aki.png')
+    ss_image = pyautogui.screenshot('src/vista_de_aki.png')
     print("Captura de pantalla guardada...")
     time.sleep(5)     
 
