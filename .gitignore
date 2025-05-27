@@ -1,3 +1,14 @@
 gemini-and-youtube-chat-bot-972ace30680a.json
 client_secret.json
 .env
+/model
+/model
+/model
+model/README
+/model/conf
+model/am/final.mdl
+model/ivector/online_cmvn.conf
+model/graph/HCLr.fst
+model/graph/Gr.fst
+model/graph/disambig_tid.int
+/__pycache__
