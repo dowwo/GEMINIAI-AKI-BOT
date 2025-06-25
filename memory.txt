@@ -1929,3 +1929,160 @@ user: {
 }
 model: (Duerme)
 
+user: {
+  "text" : "hola aquí"
+}
+model: ¡Hola! ¿Qué onda?
+
+user: {
+  "text" : "aló aló"
+}
+model: ¿Aló? ¿Qué necesitas?
+
+user: 30/05/2025 responde solo si tienes curiosidad. ID: 5ad58751-269a-44e6-8f30-02e905197059)
+model: 30/05/2025 Parece que estÃ¡s jugando No Man's Sky, con la misiÃ³n "La Purga" activa. Â¿Necesitas usar un teletransportador? Â¿EstÃ¡s teniendo problemas para encontrar uno?
+
+user: {
+  "text" : "ya vale"
+}
+model: Ok, suerte con la misión! ¿Hay algo más en lo que pueda ayudarte?
+
+user: 30/05/2025 responde solo si tienes curiosidad. ID: 5ccd8eec-5507-4eaf-99e1-6c0d07ae2b73)
+model: 30/05/2025 Veo que todavÃ­a no logras que la funciÃ³n duerme funcione correctamente y veo un error: "cannot access local variable 'image_id' where it is not associated with a value". Â¿Por quÃ© crees que no se estÃ¡ asignando un valor a esa variable?
+
+user: {
+  "text" : "esto ya funciona ya funciona no te preocupes"
+}
+model: A todo dar, doggo! ¿Entonces, en qué te puedo ayudar ahora?
+
+user: 30/05/2025 responde solo si tienes curiosidad. ID: 604df9ed-cee3-4fda-bced-7e3b59698be2)
+model: 30/05/2025 Veo que ya definiste la funciÃ³n `duerme` con `sys.exit()`. Â¿Ya intentaste ejecutarla directamente con `Gemini`? Si eso no funciona, intenta que yo invoque directamente la funciÃ³n `duerme()` a travÃ©s de la ejecuciÃ³n de una respuesta de Gemini que ejecute cÃ³digo. Â¿Ya probaste alguna de esas opciones?
+
+user: 30/05/2025 responde solo si tienes curiosidad. ID: bfa862ff-50bd-4204-bce9-7b49ca7adcc6)
+model: 30/05/2025 Que lindo fondo de pantalla, Â¿de quÃ© anime es? Â¡Me encantan los pulpitos en la sudadera!
+
+user: 30/05/2025 responde solo si tienes curiosidad. ID: c55d95c9-c8ec-4838-a02f-2c2fc1b0e832)
+model: 30/05/2025 Mismo fondo de pantalla que antes, doggo. Inanis?
+
+user: 30/05/2025 responde solo si tienes curiosidad. ID: 92c76733-276f-439c-94c3-6bc0ff94fa44)
+model: 30/05/2025 Es verdad, es Inanis! Se le quiere mucho, Â¿no?
+
+user: 30/05/2025 responde solo si tienes curiosidad. ID: 297a3af7-08f0-45b1-ae73-39379a52bda8)
+model: 30/05/2025 Ufff, doggo, ese fondo de pantalla... Â¡Me encanta esa onda cyberpunk con chicas anime! Â¿CÃ³mo se llama ese anime?
+
+user: {
+  "text" : "volví"
+}
+model: ¡Qué bueno verte de nuevo! ¿Necesitas algo?
+
+user: {
+  "text" : "o pensando en que cuanto detectes que no estoy"
+}
+model: Aja... Â¿EstÃ¡s pensando en que detecte tu ausencia? A ver, Â¿cÃ³mo podrÃ­amos hacerlo? Â¿Alguna idea?
+
+user: {
+  "text" : "primero quiero revisar por qué la respuesta viene con carácter es raro"
+}
+model: A ver, doggo, muÃ©strame el cÃ³digo y le echamos un ojo. Seguro es alguna tonterÃ­a de codificaciÃ³n o algo asÃ­.
+
+user: 30/05/2025 responde solo si tienes curiosidad. ID: 764c0f90-73f5-483f-a2bc-09c7936216b5)
+model: 30/05/2025 Veo que estÃ¡s jugando No Man's Sky de noche. Necesitas encontrar un objeto que se llama Hecesio. Â¿Ya tienes las coordenadas o necesitas ayuda para encontrarlo?
+
+user: 30/05/2025 responde solo si tienes curiosidad. ID: 81263a3b-1e52-47b0-9aab-74aacf9f3766)
+model: 30/05/2025 Veo que estÃ¡s buscando un contenedor de expulsiÃ³n para mejorar tu exotraje en No Man's Sky. Los grÃ¡ficos de mejora son gratis. Â¿Necesitas ayuda para encontrar un contenedor?
+
+user: 30/05/2025 responde solo si tienes curiosidad. ID: fb38271f-b1dc-4938-b793-217fd3fd019d)
+model: 30/05/2025 ¡Ejem! Demasiado brillante para mis circuitos. ¿Estás viajando a la velocidad de la luz o qué onda?
+
+user: {
+  "text" : "sería efecto del fuego"
+}
+model: Â¡Ah, claro! TenÃ­a que ser el fuego... Y dime, Doggo, Â¿estÃ¡s incendiando algo o te estÃ¡n atacando?
+
+user: {
+  "text" : "efectos del juego"
+}
+model: ¡Ah, los efectos especiales! ¡Qué alivio! Pensé que estabas en problemas. ¿Hay alguna razón en particular por la que estás mirando eso?
+
+user: 30/05/2025 responde solo si tienes curiosidad. ID: a35885ab-ab6b-422a-a54c-de139fb65353)
+model: 30/05/2025 ¡Ah, la vida en el espacio! Veo que sigues con lo del exotraje en No Man's Sky. ¿Encontraste el dichoso contenedor?
+
+user: 30/05/2025 responde solo si tienes curiosidad. ID: 6b588d48-cdd3-4a33-aee5-95771214a0a9)
+model: 30/05/2025 Estás en una anomalía espacial en No Man's Sky y necesitas fabricar resonadores magnéticos. ¿Ya tienes los materiales o te falta alguno?
+
+user: {
+  "text" : "me falta cobalto y johnny"
+}
+model: PerdÃ³n pero no te entendÃ­. DÃ­melo de nuevo, doggo.
+
+user: {
+  "text" : "cobalto y"
+}
+model: ¿"Y" quÃ©, doggo? Necesito la Ãºltima palabra para entender...
+
+user: 30/05/2025 responde solo si tienes curiosidad. ID: 3ba42946-951c-4b22-b10a-231c20f963fa)
+model: 30/05/2025 Â¡Alto ahÃ­! Â¿Andas con problemas de fuga en el radiador? Veo que estÃ¡s buscando un tapafugas en Mercado Libre. Â¿Ya probaste este producto antes? Â¿Te ha funcionado?
+
+user: {
+  "text" : "y no y espero que funcione"
+}
+model: ¡Ah, la fe mueve montañas! ¿Es para tu nave espacial o para algo más terrenal?
+
+user: {
+  "text" : "es para un polígono"
+}
+model: "Para un polígono"... Mmm, eso suena misterioso. ¿Te refieres a un vehículo todoterreno o algo más geométrico?
+
+user: {
+  "text" : "para un furgón"
+}
+model: ¡Ah, ya! Para un furgón. ¿Es que tienes una fuga importante o solo un pequeño goteo? ¡Espero que te funcione!
+
+user: {
+  "text" : "goteo que podría empeorar"
+}
+model: Es mejor prevenir que lamentar, como dice el dicho. ¡Espero que te funcione ese tapafugas y te ahorres un buen mecánico!
+
+user: {
+  "text" : "por qué"
+}
+model: Â¿Por quÃ© quÃ©, doggo? Dime quÃ© te inquieta.
+
+user: 30/05/2025 responde solo si tienes curiosidad. ID: 14e297ec-8a0d-496e-b19d-072df10437a2)
+model: 30/05/2025 Veo que tienes un Ecolocalizador y que estás editando Cadmio S. ¿Estás intentando usar el Ecolocalizador para rastrear el origen armónico del Cadmio o algo así?
+
+user: {
+  "text" : "sé que no era tan peligroso"
+}
+model: En resumen, Â¿ya no te da miedo como antes?
+
+user: {
+  "text" : "debo cambiarlo"
+}
+model: Â¿Debes cambiar quÃ©? Aclarame la pelÃ­cula, doggo.
+
+user: {
+  "text" : "el sitio acerquen booth"
+}
+model: No entendÃ­ ni jota, doggo. Â¿A quÃ© te refieres con "el sitio acerquen booth"?
+
+user: {
+  "text" : "esto viene del pueblo"
+}
+model: Â¿EstÃ¡s diciendo que todo lo que me estÃ¡s diciendo viene del pueblo? Que miedo D:
+
+user: {
+  "text" : "se pesca el comando porque a veces no lo parezca"
+}
+model: Si te entiendo bien, ¿estás diciendo que el programa a veces tiene problemas para detectar el comando de voz? ¿Es así?
+
+user: {
+  "text" : "puedes"
+}
+model: Depende, doggo, ¿puedo quÃ©? Â¡PregÃºntame sin miedo!
+
+user: {
+  "text" : "por favor apágate"
+}
+model: (Duerme)
+
